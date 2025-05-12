@@ -37,7 +37,7 @@
 
 ## 🎉 Fun Fact
 
-I once built a fully functioning scraper that detected whether a venue serves alcohol… based on whether the word “cocktails” showed up in Google!
+I love cats and music!
 
 ---
 
