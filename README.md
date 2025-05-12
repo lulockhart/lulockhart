@@ -43,7 +43,7 @@ I once built a fully functioning scraper that detected whether a venue serves al
 
 📍 Iowa City, IA  
 🌐 [lukelockhartsite.me](https://lukelockhartsite.me)  
-📫 Reach me at: [Your Email Here]
+📫 Reach me at: [LockhartLukeA@gmail.com]
 
 ---
 
