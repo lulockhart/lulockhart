@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Luke Lockhart
+# Hi, I'm Luke Lockhart
 
-🎓 I'm a senior at the University of Iowa majoring in **Business Analytics and Information Systems**.  
-📊 I’m passionate about using **data** to solve real-world business problems and build smart, scalable solutions.
+I'm a senior at the University of Iowa majoring in **Business Analytics and Information Systems**.  
+I’m passionate about using **data** to solve real-world business problems and build smart, scalable solutions.
 
 ---
 
-## 💼 Skills
+## Skills
 
 - **Languages & Tools**: Python, SQL, Tableau, Power BI, HTML/CSS, Git, Excel  
 - **Libraries & Frameworks**: Pandas, NumPy, Selenium, NLTK, TextBlob  
@@ -13,15 +13,15 @@
 
 ---
 
-## 📁 Projects
+## Projects
 
-- 🦆 **Aflac Sentiment Analysis**  
+- **Aflac Sentiment Analysis**  
   Scraped and analyzed data from Reddit, Twitter, and Trustpilot to uncover sentiment trends using NLP and visualized findings in Tableau.
 
-- 🍽️ **Bars.com Venue Scraper**  
+- **Bars.com Venue Scraper**  
   Built a Google-based venue scraping tool for Bars.com to extract alcohol-serving venues across multiple cities, saving hours of manual outreach.
 
-- 📈 **Card Transaction ETL Pipeline**  
+- **Card Transaction ETL Pipeline**  
   Cleaned and transformed parking transaction data in Azure Data Factory and created reports in Power BI to analyze usage patterns.
 
 ---
@@ -35,7 +35,7 @@
 
 ---
 
-## 🎉 Fun Fact
+## Fun Fact
 
 I love cats and music!
 
